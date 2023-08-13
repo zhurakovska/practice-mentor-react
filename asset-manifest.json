@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/practice-mentor-react/static/css/main.7acaea2f.css",
-    "main.js": "/practice-mentor-react/static/js/main.07d3183d.js",
+    "main.js": "/practice-mentor-react/static/js/main.2b177f6a.js",
     "index.html": "/practice-mentor-react/index.html",
     "main.7acaea2f.css.map": "/practice-mentor-react/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/practice-mentor-react/static/js/main.07d3183d.js.map"
+    "main.2b177f6a.js.map": "/practice-mentor-react/static/js/main.2b177f6a.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.2b177f6a.js"
   ]
 }
